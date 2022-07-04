@@ -1,9 +1,12 @@
-### Hi, Mimateach here! 👋
+### 
+<h2 align="center">Hi, Mimateach here! 👋 </h2>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-83bc2942-e990-4d1b-b614-ff0e9f07e23a-v1.png?transparent=1&palette=1" />
+</div>
+</div>
 
-![Mimateach](https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-83bc2942-e990-4d1b-b614-ff0e9f07e23a-v1.png?transparent=1&palette=1 )
-
-
-<h3>"This is me when I'm not panicking about deadlines".</h3>
+<h3 align="center">"This is me when I'm not panicking about deadlines".</h3>
 
 
 <!--
