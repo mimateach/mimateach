@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 I can work with:
 
-<div style="display: flex; justify-content: center;">prueba
-<div style="height: 40px; width: 100px; border-radius: 10px; background-color: RGB(36, 41, 47); color:white;"></div>
+<div style="display: flex; justify-content: center;">
+<div style="height: 40px; width: 100px; border-radius: 10px; background-color: RGB(36, 41, 47); color:white;">prueba</div>
 </div>
 
 Currently learning:
