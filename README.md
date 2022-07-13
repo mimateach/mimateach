@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 - ⚡ In the **future,** I would like to work on my own **education tool project.**
 - 🤔 Extra- although not very useful- info: **I love doing creative activities, so I sing, I write and I do handcrafts. I guess that's the reason why I like frontEnd so much.**
 
+
+I can work with:
+<div style="display: flex; justify-content: center;">prueba
+<div style="height: 25px; width: 50px; border-radius: 10px; background-color: RGB(36, 41, 47); color:white></div>
+</div>
+
+Currently learning:
+
