@@ -2,7 +2,7 @@
 <h2 align="center">Hi, Mimateach here! 👋 </h2>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-<img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-83bc2942-e990-4d1b-b614-ff0e9f07e23a-v1.png?transparent=1&palette=1" />
+<img style="width:300px; height: auto;" src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-83bc2942-e990-4d1b-b614-ff0e9f07e23a-v1.png?transparent=1&palette=1" />
 </div>
 </div>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" style="width:50px; height: auto;">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="width:50px; height: auto;">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50px; height: auto;">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" style="width:50px; height: auto;">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" style="width:55px; height: auto;">
   
   </div>
 
