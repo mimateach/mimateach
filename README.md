@@ -54,13 +54,9 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="width:50px; height: auto;">
    </div>
    </details>
-   <!--<details>
+   <details>
   <summary align="center">Other tools:</summary>
   <div align="center"; style="display: flex; align-items: flex-start;">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" style="width:50px; height: auto;">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" style="width:50px; height: auto;">
-      <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" style="width:50px; height: auto;"> 
-      <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="width:50px; height: auto;">
-      <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" style="width:50px; height: auto;">
+    <h5><span style="color: #794D6A">VSCode</span>  <span style="color: #EE8888">Figma</span>  <span style="color: #F7D497">Jira</span>  <span style="color: #D9832D">Trello</span>  <span style="color: #3A3B16">GitKraken</span></h5>
    </div>
-   </details>-->
+   </details>
