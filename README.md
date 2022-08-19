@@ -54,9 +54,9 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="width:50px; height: auto;">
    </div>
    </details>
-   <details>
+<!--   <details>
   <summary align="center">Other tools:</summary>
-  <div align="center"; style="display: flex; align-items: flex-start;">
-    <h5><span style="color: #794D6A">VSCode</span>  <span style="color: #EE8888">Figma</span>  <span style="color: #F7D497">Jira</span>  <span style="color: #D9832D">Trello</span>  <span style="color: #3A3B16">GitKraken</span></h5>
+  <div align="center"; style="display: flex; flex-direction: row; align-items: flex-start;">
+    <div style="background-color: #794D6A">VSCode</div>  <div style="background-color: #EE8888">Figma</div>  <div style="background-color: #F7D497">Jira</div>  <div style="background-color: #D9832D">Trello</div>  <div style="background-color: #3A3B16">GitKraken</div>
    </div>
-   </details>
+   </details> -->
